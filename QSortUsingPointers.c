@@ -1,4 +1,3 @@
-//modify qsort.c in section 9.6 so that low, high, and middle are pointers to array elements rather than integers. The split function willneed to return a pointer not an integer 
 
 
 #include <stdio.h>
